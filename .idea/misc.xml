@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mohov/AndroidStudioProjects/TranslateLesson1/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/mohov/AndroidStudioProjects/TranslateLesson1/app/src/main/res/layout/activity_main_recyclerview_item.xml" value="0.3546875" />
+        <entry key="..\:/Users/mohov/AndroidStudioProjects/TranslateLesson1/app/src/main/res/layout/fragment_dialog_translate.xml" value="0.340625" />
+        <entry key="..\:/Users/mohov/AndroidStudioProjects/TranslateLesson1/app/src/main/res/layout/fragment_list_translate.xml" value="0.3546875" />
+        <entry key="..\:/Users/mohov/AndroidStudioProjects/TranslateLesson1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.37083333333333335" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
